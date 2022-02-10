@@ -6,7 +6,7 @@ Raphael Scharrer
 :sectnums:    // Nummerierung der Überschriften / section numbering
 :toc: left
 
-= Git
+== Git
 
 == Repo + Github Pages
 . Order erstellen und in IntelliJ öffnen.
@@ -60,9 +60,9 @@ include::./plantuml/UmlAsciiDefinition.puml[]
 ----
 
 
-= UML
+== UML
 
-= ITP Theorie
+== ITP Theorie
 
 == Projekt G
 
