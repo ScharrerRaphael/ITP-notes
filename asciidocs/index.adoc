@@ -109,9 +109,9 @@ Die *Ausprägung* gibt nun die Möglichkeiten der jeweiligen Bereiche an. Sie si
 
 *Anwendung:* Der Kasten dient zur Analyse/Auswahl einer passenden Kombination der Lösungen.
 
-TIP: Wenn die Teilbereiche zwei Dimensionen benötigt wird aus der Tabelle (2D) ein Würfel (3D), daher die Bezeichnung "Kasten".
+TIP: Wenn die Teilbereiche zwei Dimensionen benötigen, wird aus der Tabelle (2D) ein Würfel (3D), daher die Bezeichnung "Kasten".
 
-image::./images/morphologischerKasten.png[Morphologischer Kasten]
+image::./morphologischerKasten.png[Morphologischer Kasten]
 
 - Synektik
 - Delphi-Methode
