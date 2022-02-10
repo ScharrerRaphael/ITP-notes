@@ -11,6 +11,11 @@ ifdef::backend-html5[]
 
 . Order erstellen und in IntelliJ öffnen.
 . VCS in IntelliJ aktivieren => Git|Github|Share Project => Inhalt des Doc-as-code Ordner in Projekt Ordner ziehen.
+. .env -Datei erstellen mit folgendem Inhalt:
+
+ GIT_GLOBAL_MAIL=<mail>
+ GIT_GLOBAL_USER_NAME=<name>
+
 . Docker starten:
 
  service docker start
