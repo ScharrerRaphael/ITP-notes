@@ -66,12 +66,11 @@ include::./plantuml/UmlAsciiDefinition.puml[]
 
 == Projekt Grundlagen
 
-Phasen:
+=== Projekt Arten
+
+=== Projekt Phasen:
 
 - Projektinitialisierung
-
-Proje
-
 - Projektplanung
 - Projektdurchführung
 - Projektevaluierung
