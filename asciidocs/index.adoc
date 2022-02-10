@@ -64,7 +64,7 @@ include::./plantuml/UmlAsciiDefinition.puml[]
 
 == ITP Theorie
 
-== Projekt G
+== Projekt Grundlagen
 
 Phasen:
 
@@ -108,6 +108,8 @@ Die *Teilbereiche* geben die namensgebenden Teilbereiche an in welche eine Mögl
 Die *Ausprägung* gibt nun die Möglichkeiten der jeweiligen Bereiche an. Sie sind voneinander unabhängig und möglichst genau.
 
 *Anwendung:* Der Kasten dient zur Analyse/Auswahl einer passenden Kombination der Lösungen.
+
+TIP: Wenn die Teilbereiche zwei Dimensionen benötigt wird aus der Tabelle (2D) ein Würfel (3D), daher die Bezeichnung "Kasten".
 
 image::./images/morphologischerKasten.png[Morphologischer Kasten]
 
