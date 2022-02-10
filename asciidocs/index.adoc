@@ -113,8 +113,26 @@ TIP: Wenn die Teilbereiche zwei Dimensionen benötigen, wird aus der Tabelle (2D
 
 image::./morphologischerKasten.png[Morphologischer Kasten]
 
-- Synektik
-- Delphi-Methode
+== Synektik
+
+- Beschäftigen mit dem Problem
+- Ablenkung/Verfremdung des Sachverhalts
+- Verbindung zwischen Problem und Verfremdung schaffen
+- Spontan werden nun Lösungsideen bewusst
+
+TIP: *Verfremdung:* Man setzt sich ein Szenario des Problems in unrealistischer/absurder Form in den Kopf und beschäftigt sich mit dieser.
+
+== Delphi-Methode
+
+Teilnehmer bestehend aus Fachleuten und Experten | Hoher Zeit- und Organisationsaufwand
+
+- Jeder Teilnehmer entwickelt einen Lösungsansatz für ein das Problem.
+- Als nächstes werden die Ansätze anonym an die Experten gereicht. Diese kritisieren nun die Ansätze und überarbeitet seinen eigenen.
+- Die Ansätze werden an den Schreiber zurückgereicht und werden von ihnen überarbeitet.
+
+Der Vorgang wird mehrmals wiederholt um die Gruppe zu einem einheitlichen Ansatz zu bringen.
+
+TIP: Anonymität ermöglicht den Fachleuten einen kreativen und unförmlichen Standpunkt einzunehmen.
 
 == V-Modell
 
