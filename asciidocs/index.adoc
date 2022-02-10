@@ -1,21 +1,48 @@
-= My Project
-firstname lastname
-1.0.0, yyyy-mm-dd: Some notes
+= ITP Mitschrift
+Raphael Scharrer
 ifndef::imagesdir[:imagesdir: images]
-//:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
 :icons: font
 :sectnums:    // Nummerierung der Überschriften / section numbering
 :toc: left
-
-//Need this blank line after ifdef, don't know why...
 ifdef::backend-html5[]
 
-// print the toc here (not at the default position)
-//toc::[]
+== Repository inkl. Github Page
 
-== Header 1
+. Order erstellen und in IntelliJ öffnen.
+. VCS in IntelliJ aktivieren => Git|Github|Share Project => Inhalt des Doc-as-code Ordner in Projekt Ordner ziehen.
+. Docker starten:
 
+ service docker start
 
-=== Header 2
+. Page erstellen:
 
+ sudo ./run-docker-inside-docker.sh
+
+Die Page wurde nun erstellt und nimmt den Inhalt aus dem index.adoc File.
+Aktualisiert wird die Page bei erneutem Ausführen vom letzten oben angeführten Befehl.
+
+== Asciidocs
+
+. PlantUML in Adoc File
+
+ [plantuml, <umlName>]
+ ----
+ include::<relativerPfad>[]
+ ----
+
+ [plantuml, <umlName>]
+ ----
+ @startuml
+ class Klassen
+ class Diagramm
+ Klassen -- Diagramm
+ @enduml
+ ----
+
+Beides erzielt das selbe Ergebnis:
+
+[plantuml, UMLdefinition1]
+----
+include::./plantuml/UmlAsciiDefinition.puml[]
+----
