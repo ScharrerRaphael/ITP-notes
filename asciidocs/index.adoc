@@ -8,7 +8,7 @@ Raphael Scharrer
 
 == Git
 
-== Repo + Github Pages
+=== Repo + Github Pages
 . Order erstellen und in IntelliJ öffnen.
 . VCS in IntelliJ aktivieren => Git|Github|Share Project => Inhalt des Doc-as-code Ordner in Projekt Ordner ziehen.
 . .env -Datei erstellen mit folgendem Inhalt:
@@ -28,7 +28,7 @@ Die Page wurde nun erstellt und nimmt den Inhalt aus dem index.adoc File.
 Aktualisiert wird die Page bei erneutem Ausführen vom letzten oben angeführten Befehl.
 
 
-== Branches
+=== Branches
 
 
 == Asciidocs
@@ -61,8 +61,6 @@ include::./plantuml/UmlAsciiDefinition.puml[]
 
 
 == UML
-
-== ITP Theorie
 
 == Projekt Grundlagen
 
@@ -112,7 +110,7 @@ TIP: Wenn die Teilbereiche zwei Dimensionen benötigen, wird aus der Tabelle (2D
 
 image::./morphologischerKasten.png[Morphologischer Kasten]
 
-== Synektik
+=== Synektik
 
 - Beschäftigen mit dem Problem
 - Ablenkung/Verfremdung des Sachverhalts
@@ -121,7 +119,7 @@ image::./morphologischerKasten.png[Morphologischer Kasten]
 
 TIP: *Verfremdung:* Man setzt sich ein Szenario des Problems in unrealistischer/absurder Form in den Kopf und beschäftigt sich mit dieser.
 
-== Delphi-Methode
+=== Delphi-Methode
 
 Teilnehmer bestehend aus Fachleuten und Experten | Hoher Zeit- und Organisationsaufwand
 
@@ -133,7 +131,9 @@ Der Vorgang wird mehrmals wiederholt um die Gruppe zu einem einheitlichen Ansatz
 
 TIP: Anonymität ermöglicht den Fachleuten einen kreativen und unförmlichen Standpunkt einzunehmen.
 
-== V-Modell
+== Diagramm / Modell
+
+=== V-Modell
 
 *Anwendung:* Es beschreibt die praktischen Schritte vom Beginn eines Programms bis zum Ende von Diesem.
 
@@ -141,4 +141,4 @@ TIP: Das V-Modell ist die Erweiterung des Wasserfall Modells
 
 V-Modell IMG einfügen
 
-== Usecase Diagramm
+=== Usecase Diagramm
