@@ -1,27 +1,8 @@
 @startuml
-'https://plantuml.com/class-diagram
+class Test1
+class Test2
+class Test3
 
-abstract class AbstractList
-abstract AbstractCollection
-interface List
-interface Collection
-
-List <|-- AbstractList
-Collection <|-- AbstractCollection
-
-Collection <|- List
-AbstractCollection <|- AbstractList
-AbstractList <|-- ArrayList
-
-class ArrayList {
-Object[] elementData
-size()
-}
-
-enum TimeUnit {
-DAYS
-HOURS
-MINUTES
-}
-
+Test1 <|-- Test2
+Test1 <|-- Test3
 @enduml
