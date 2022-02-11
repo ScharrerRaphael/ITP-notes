@@ -29,6 +29,15 @@ Aktualisiert wird die Page bei erneutem Ausführen vom letzten oben angeführten
 
 
 === Branches
+=== Git clone
+=== Git add
+=== Git push
+=== Git pull
+=== Git stash
+=== Git status
+=== Git restore
+=== Git clean
+=== Merge-Konflikte
 
 
 == Asciidocs
