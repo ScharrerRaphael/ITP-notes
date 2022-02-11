@@ -81,6 +81,7 @@ include::./plantuml/UmlAsciiDefinition.puml[]
 Das Projekt wird erstmals in eine Vorstellung geholt.
 
 Teambildung | Machbarkeitsstudie | Projektentscheid
+
 [blue]#Projektantrag | Projektauftrag | Zieldefinition#
 
 TIP: Wann beginnt das Projekt und wann endet es steht hier schon fest.
@@ -93,6 +94,7 @@ TIP: Wann beginnt das Projekt und wann endet es steht hier schon fest.
 Terminliste | Kosten- & Finanzpläne | Ressourcenbedarf & -auslastung
 
 Projektdefinition | Realisierungsplanung | Analyse
+
 [blue]#Meilensteinliste | Arbeitspakete | Stakeholder- & Risikoanalysen#
 
 ==== Projektdurchführung
@@ -101,7 +103,9 @@ Die Planung wird umgesetzt, Phase für Phase wird abgearbeitet, das passiert abe
 
 [blue]#Berichte zu jedem Meilenstein#
 
-====Projektevaluierung
+TIP: Ein Meilenstein ist ein überprüfbares Zwischenergebnis, welches terminal und inhaltlich definiert ist.
+
+==== Projektevaluierung
 
 Ein letzter Bericht findet statt, er beschreibt wo das Projekt steht, wie es ausfiel/wurde das Ziel umgesetzt. Diese Informationen helfen bei möglichen Feinschliffen oder bei weiteren Projekten dieser Art um Fehler zu vermeiden/es genauso gut zu machen.
 
