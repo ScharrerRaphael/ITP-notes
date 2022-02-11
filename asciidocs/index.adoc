@@ -1,4 +1,4 @@
-= ITP Mitschrift
+= ITP-notes
 Raphael Scharrer
 
 :sourcedir: ../src/main/java
@@ -39,7 +39,6 @@ Aktualisiert wird die Page bei erneutem Ausführen vom letzten oben angeführten
 === Git clean
 === Merge-Konflikte
 
-
 == Asciidocs
 - PlantUML in Adoc File verlinken:
 
@@ -68,7 +67,6 @@ Beides erzielt das selbe Ergebnis:
 include::./plantuml/UmlAsciiDefinition.puml[]
 ----
 
-
 == UML
 
 == Projekt Grundlagen
@@ -76,11 +74,38 @@ include::./plantuml/UmlAsciiDefinition.puml[]
 === Projekt Arten
 
 === Projekt Phasen:
+[blue]#blau = Querschnittsaufgaben#
 
-- Projektinitialisierung
-- Projektplanung
-- Projektdurchführung
-- Projektevaluierung
+==== Projektinitialisierung
+
+Das Projekt wird erstmals in eine Vorstellung geholt.
+
+Teambildung | Machbarkeitsstudie | Projektentscheid
+[blue]#Projektantrag | Projektauftrag | Zieldefinition#
+
+TIP: Wann beginnt das Projekt und wann endet es steht hier schon fest.
+
+==== Projektplanung
+
+. Die Ziele des Auftrags werden entnommen und umformuliert in etwas Fachgebiet entspechendes, das Ergebnis dabei ist eine Leistungsbeschreibung (Bsp.: Pflichtenheft).
+. Bei der Analyse wird Struktur und Gliederung des Ablaufes erarbeitet um den Auftrag auch wirklich umsetzbar zu machen.
+. Der Realisierungsplan umfasst restliche nötige Schritte um Ressourceneinsatz und Zeitaufwand je Tätigkeit ermittelt.
+Terminliste | Kosten- & Finanzpläne | Ressourcenbedarf & -auslastung
+
+Projektdefinition | Realisierungsplanung | Analyse
+[blue]#Meilensteinliste | Arbeitspakete | Stakeholder- & Risikoanalysen#
+
+==== Projektdurchführung
+
+Die Planung wird umgesetzt, Phase für Phase wird abgearbeitet, das passiert aber mit Dokumentation zu jeder Phase, ein Bericht.
+
+[blue]#Berichte zu jedem Meilenstein#
+
+====Projektevaluierung
+
+Ein letzter Bericht findet statt, er beschreibt wo das Projekt steht, wie es ausfiel/wurde das Ziel umgesetzt. Diese Informationen helfen bei möglichen Feinschliffen oder bei weiteren Projekten dieser Art um Fehler zu vermeiden/es genauso gut zu machen.
+
+[blue]#Projektabschluss-Bericht#
 
 == Kreativitätstechniken
 
