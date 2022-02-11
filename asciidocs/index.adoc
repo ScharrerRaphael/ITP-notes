@@ -88,9 +88,9 @@ TIP: Wann beginnt das Projekt und wann endet es steht hier schon fest.
 
 ==== Projektplanung
 
-. Die Ziele des Auftrags werden entnommen und umformuliert in etwas Fachgebiet entspechendes, das Ergebnis dabei ist eine Leistungsbeschreibung (Bsp.: Pflichtenheft).
-. Bei der Analyse wird Struktur und Gliederung des Ablaufes erarbeitet um den Auftrag auch wirklich umsetzbar zu machen.
-. Der Realisierungsplan umfasst restliche nötige Schritte um Ressourceneinsatz und Zeitaufwand je Tätigkeit ermittelt.
+. Die Ziele des Auftrags werden entnommen und umformuliert in etwas Fachgebiet entspechendes, das Ergebnis dabei ist eine *Leistungsbeschreibung* (Bsp.: Pflichtenheft).
+. Bei der *Analyse* wird Struktur und Gliederung des Ablaufes erarbeitet um den Auftrag auch wirklich umsetzbar zu machen.
+. Der *Realisierungsplan* umfasst restliche nötige Schritte um Ressourceneinsatz und Zeitaufwand je Tätigkeit ermittelt.
 Terminliste | Kosten- & Finanzpläne | Ressourcenbedarf & -auslastung
 
 Projektdefinition | Realisierungsplanung | Analyse
