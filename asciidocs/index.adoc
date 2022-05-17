@@ -6,6 +6,39 @@ Raphael Scharrer
 :sectnums:    // Nummerierung der Überschriften / section numbering
 :toc: left
 
+== Docker
+
+=== Dockerfile
+
+=== docker-compose.yml
+
+=== Docker Image
+
+==== Befehle
+Befehlsaufbau: docker image <Befehl>
+
+ docker image ls
+
+auflisten der images
+
+ docker image build
+
+bauen eines images aus einem Dockerfile
+
+ docker image prune
+
+entfernt alle ungenutzten Images (Sollte es von einem Image noch einen Container geben, dann WIRD dieser noch benutzt)
+
+ docker image pull
+
+ docker image rm
+
+=== Docker Container
+
+. Docker starten:
+
+ service docker start
+
 == Git
 
 === Repo + Github Pages
@@ -15,10 +48,6 @@ Raphael Scharrer
 
  GIT_GLOBAL_MAIL=<mail>
  GIT_GLOBAL_USER_NAME=<name>
-
-. Docker starten:
-
- service docker start
 
 . Page erstellen:
 
@@ -180,3 +209,6 @@ TIP: Das V-Modell ist die Erweiterung des Wasserfall Modells
 V-Modell IMG einfügen
 
 === Usecase Diagramm
+
+== Test Test
+*TestTest*
